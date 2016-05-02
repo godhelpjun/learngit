@@ -4,3 +4,5 @@ added second new line.
 added third new line.
 add fourth new line.
 
+just adding file1.txt to staged area.git reset head file to underchange.
+

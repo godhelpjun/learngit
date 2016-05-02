@@ -1,1 +1,2 @@
 this is git repository
+in the staged file.
