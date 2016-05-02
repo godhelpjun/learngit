@@ -1,3 +1,6 @@
 changing file1 is a changed file
 added a new line.
+added second new line.
+added third new line.
+add fourth new line.
 
